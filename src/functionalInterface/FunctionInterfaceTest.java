@@ -5,7 +5,7 @@ package functionalInterface;
  * A functional interface is an interface with one abstract method and used as the type of a lambda expression.
  *
  */
-public class functionInterfaceTest {
+public class FunctionInterfaceTest {
 	
 	
     /**
