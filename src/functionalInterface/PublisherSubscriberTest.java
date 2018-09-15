@@ -5,6 +5,10 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.function.Consumer;
 import java.util.function.Supplier;
 
+/**
+ * Reference http://www.byteslounge.com/tutorials/java-8-consumer-and-supplier
+ *
+ */
 public class PublisherSubscriberTest {
 	
 	public static void main(String[] args) throws InterruptedException {
