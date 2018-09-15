@@ -5,7 +5,11 @@ public class User {
 	private String name;
 	
 	public User() {
-		this.name = "test";
+		this("test");
+	}
+	
+	public User(String name) {
+		this.name = name;
 	}
 	
 	@Override
