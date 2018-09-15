@@ -6,5 +6,11 @@ package functionalInterface;
  *
  */
 public class PublisherSubscriber {
+	
+	
+	
+	
+	
+	
 
 }
