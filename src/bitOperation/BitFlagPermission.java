@@ -1,5 +1,10 @@
 package bitOperation;
 
+/**
+ * https://xxgblog.com/2013/09/15/java-bitmask/ and
+ * https://drumcoder.co.uk/blog/2010/jan/06/bitmasks-java/
+ *
+ */
 public class BitFlagPermission {
 
   public static final int ALLOW_SELECT = 1 << 0;
